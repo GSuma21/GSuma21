@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://gsuma21.github.io/G_Suma-Portfolio/](https://gsuma21.github.io/G_Suma-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://tourmaline-llama-113492.netlify.app](https://tourmaline-llama-113492.netlify.app)
 
 - 📫 How to reach me **21gsuma@gmail.com**
 
